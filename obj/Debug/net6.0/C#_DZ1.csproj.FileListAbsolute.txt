@@ -1,0 +1,15 @@
+C:\Users\bytsk\Desktop\C#_DZ1\obj\Debug\net6.0\C#_DZ1.csproj.AssemblyReference.cache
+C:\Users\bytsk\Desktop\C#_DZ1\obj\Debug\net6.0\C#_DZ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bytsk\Desktop\C#_DZ1\obj\Debug\net6.0\C#_DZ1.AssemblyInfoInputs.cache
+C:\Users\bytsk\Desktop\C#_DZ1\obj\Debug\net6.0\C#_DZ1.AssemblyInfo.cs
+C:\Users\bytsk\Desktop\C#_DZ1\obj\Debug\net6.0\C#_DZ1.csproj.CoreCompileInputs.cache
+C:\Users\bytsk\Desktop\C#_DZ1\bin\Debug\net6.0\C#_DZ1.exe
+C:\Users\bytsk\Desktop\C#_DZ1\bin\Debug\net6.0\C#_DZ1.deps.json
+C:\Users\bytsk\Desktop\C#_DZ1\bin\Debug\net6.0\C#_DZ1.runtimeconfig.json
+C:\Users\bytsk\Desktop\C#_DZ1\bin\Debug\net6.0\C#_DZ1.dll
+C:\Users\bytsk\Desktop\C#_DZ1\bin\Debug\net6.0\C#_DZ1.pdb
+C:\Users\bytsk\Desktop\C#_DZ1\obj\Debug\net6.0\C#_DZ1.dll
+C:\Users\bytsk\Desktop\C#_DZ1\obj\Debug\net6.0\refint\C#_DZ1.dll
+C:\Users\bytsk\Desktop\C#_DZ1\obj\Debug\net6.0\C#_DZ1.pdb
+C:\Users\bytsk\Desktop\C#_DZ1\obj\Debug\net6.0\C#_DZ1.genruntimeconfig.cache
+C:\Users\bytsk\Desktop\C#_DZ1\obj\Debug\net6.0\ref\C#_DZ1.dll
